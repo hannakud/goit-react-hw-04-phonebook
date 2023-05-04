@@ -1,0 +1,12 @@
+.contactList {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.contactItem {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+}

@@ -1,0 +1,18 @@
+form {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  border: 1px solid black;
+  padding: 40px;
+}
+
+input {
+  margin-left: 20px;
+  padding: 7px;
+}
+
+.labelForm {
+  font-weight: 400;
+}
